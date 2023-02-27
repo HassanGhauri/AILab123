@@ -1,0 +1,6 @@
+Name:	Population:	Mayor:
+Karachi	3000000	Kamran tesori
+Lahore	1000000	Ali
+hyderabad	200000	Ghauri
+Multan	3500000	Waqas
+Islamabad	100000	Zahir
